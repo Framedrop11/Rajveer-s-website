@@ -8,7 +8,7 @@ loginForm.addEventListener('submit', (event) => {
   const password = document.getElementById('password').value;
 
   const users = {
-    'mriganka@gmail.com': 'mriganka','rajkhowa@gmail.com':'rajkhowa','admin@gmail.com':'admin123'
+    'rajveer23@gmail.com': 'Rajveer123','mriganka11@gmail.com':'Mriganka1119' , 'suraj@gmail.com':'Suraj123'
   };
 
   if (users[email] === password) {
